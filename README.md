@@ -6,6 +6,13 @@ This is a Streamlit application that enables users to upload a PDF document and 
 - `Chroma` as a vectorstore
 - `DeepSeek` (via OpenAI-compatible API) to answer questions using LLMs
 
+## 🖼️ App Preview
+
+Here’s what the app looks like in action:
+
+![PDF Q&A Streamlit Screenshot](screenshot.png)
+
+
 ## 🚀 How to Run
 
 1. Clone the repository:
