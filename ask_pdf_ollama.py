@@ -51,7 +51,7 @@ if uploaded_file and user_query:
 
             # ---- Query using Ollama LLM (Deepseek R1) ----
             try:
-                llm = OllamaLLM(model="deepseek-r1")
+                llm = OllamaLLM(model="deepseek-r1:7b")
                 prompt = f"""You are an expert assistant.\nAnswer the following based on this context:\n{context}\n\nQuestion: {user_query}"""
                 answer = llm.invoke(prompt)
                 st.success("Answer:")
