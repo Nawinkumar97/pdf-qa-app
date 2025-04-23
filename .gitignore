@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+*.env
+
+# Virtual environments
+venv/
+llms/
+
+# LangChain vectorstore artifacts
+deepseek_chroma/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS Files
+.DS_Store
+Thumbs.db
