@@ -10,7 +10,7 @@ This is a Streamlit application that enables users to upload a PDF document and 
 
 Here’s what the app looks like in action:
 
-![PDF Q&A Streamlit Screenshot](screenshot.png)
+![PDF Q&A Streamlit Screenshot](Screenshot.png)
 
 
 ## 🚀 How to Run
