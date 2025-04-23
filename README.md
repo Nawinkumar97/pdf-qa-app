@@ -31,7 +31,7 @@ streamlit run pdf_QA_cleaned.py
 
 ## 📁 Files
 
-- `pdf_QA_cleaned.py`: The main Streamlit app
+- `ask_pdf.py`: The main Streamlit app
 - `requirements.txt`: Dependencies list
 - `.env`: Contains your DeepSeek API key (not included, you must create it)
 
